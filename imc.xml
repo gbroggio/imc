@@ -77,6 +77,8 @@
 			<language tag="en-GB">language/en-GB/en-GB.com_imc.sys.ini</language>
 			<language tag="el-GR">language/el-GR/el-GR.com_imc.ini</language>
 			<language tag="el-GR">language/el-GR/el-GR.com_imc.sys.ini</language>
+			<language tag="it-IT">language/it-IT/it-IT.com_imc.ini</language>
+			<language tag="it-IT">language/it-IT/it-IT.com_imc.sys.ini</language>
         </languages>
     </administration>
     <plugins>
