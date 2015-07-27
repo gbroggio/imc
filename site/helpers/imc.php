@@ -128,7 +128,7 @@ class ImcFrontendHelper {
 
 	}
 
-	public function cutString($title, $max)
+	public static function cutString($title, $max)
 	{
 	    if($title=='')
 	        return '';
